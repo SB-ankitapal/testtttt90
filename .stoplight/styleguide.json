@@ -1,0 +1,25 @@
+{
+  "name": "testtttt90",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {
+    "styleguide334": {
+      "id": "VRYYkvqtcnPES6dwYTf4y",
+      "given": [],
+      "severity": "error",
+      "then": {
+        "function": ""
+      },
+      "name": "styleguide334"
+    }
+  },
+  "extendedDefault": false
+}
