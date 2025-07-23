@@ -1,0 +1,9 @@
+title: model89800
+x-stoplight:
+  id: ofk8rcpdwezed
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: 84tk9xh32kt7f
